@@ -21,3 +21,15 @@ python main.py
 Set the root, hit Scan or leave Live on (rescans every 2.5 s, keeps your checkboxes). Check rows and Kill Selected, or Kill All Listed to clear everything. Probe Move takes a non-mutating snapshot of incompatible handles across the selected tree; if it finds one while the table is empty, the usual fix is closing the Explorer window sitting in the folder. Copy Report puts the scan on the clipboard as a markdown table.
 
 Killing a process another user or an elevated context owns reports "denied": rerun Lockpekku elevated. Note the scan itself also sees more when elevated; unelevated, an elevated process's paths are invisible.
+
+## Support
+
+If my work is interesting or useful to you, consider tossing something my way; it goes toward rent, food, and energy drinks, and every bit is genuinely appreciated.
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mr_gl00m)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/mr-gl00m)
+
+**Crypto:**
+- BTC: ```bc1qnedeq3dr2dmlwgmw2mr5mtpxh45uhl395prr0d```
+- ETH: ```0x1bCbBa9854dA4Fc1Cb95997D5f42006055282e3c```
+- SOL: ```3Wm8wS93UpG2CrZsMWHSspJh7M5gQ6NXBbgLHDFXmAdQ```
